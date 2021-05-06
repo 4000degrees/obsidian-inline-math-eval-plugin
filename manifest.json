@@ -1,0 +1,10 @@
+{
+	"id": "inline-math-eval-plugin",
+	"name": "Inline math evaluation plugin",
+	"version": "0.1",
+	"minAppVersion": "0.11.13",
+	"description": "Make calculations right in your notes.",
+	"author": "4000degrees",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}
