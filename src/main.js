@@ -7,7 +7,7 @@ import {
 
 var obsidian = require('obsidian');
 
-class InlineMathEval extends obsidian.Plugin {
+export default class InlineMathEval extends obsidian.Plugin {
   constructor() {
     super(...arguments);
 
@@ -72,5 +72,3 @@ class InlineMathEval extends obsidian.Plugin {
     });
   }
 }
-
-module.exports = InlineMathEval;
